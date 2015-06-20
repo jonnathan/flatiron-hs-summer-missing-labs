@@ -1,0 +1,1 @@
+Write a program called freak_out.rb that asks for a user’s name and age, and returns a string that says, “OMG! NO WAY. GET OUT OF TOWN. Are you <user name>? You’re <user’s age> years old. I’m <your age> years old! That means we’re only <difference in ages> years apart!!!”
